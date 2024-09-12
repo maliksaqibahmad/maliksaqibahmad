@@ -1,38 +1,48 @@
-# 👋 Hey there! I'm Saqib
+# 👋 Hi there, I'm Saqib
 
-### 💻 CS Student | Aspiring Full-Stack Developer | Cybersecurity Enthusiast
+## 🚀 Full Stack Developer | 💻 Ethical Hacker | 🌱 Always Learning
 
-I'm a passionate learner on a journey to mastering **Full-Stack Web Development** and exploring the world of **Cybersecurity**. I love diving deep into tech, figuring out how things work, and building projects that challenge me to grow.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications and solve real-world problems through code.
+
+### 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=radical)
+
+### 🌱 Currently Learning
+
+- React
+- Penetration & Network Testing
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/maliksaqibahmad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maliksaqibahmad" height="30" width="40" />
+  </a>
+  <a href="https://x.com/maliksaqibdev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maliksaqibdev" height="30" width="40" />
+  </a>
+  <a href="https://maliksaqib.vercel.app" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="my_website" height="30" width="40" />
+  </a>
+</p>
+
+### 💡 Fun Fact
+
+Je connais aussi le français
 
 ---
 
-### 🔧 Technologies I'm working with:
-- Frontend: **HTML, CSS, JavaScript, React**
-- Backend: **Node.js, Express, MongoDB**
-- Cybersecurity: **Learning penetration testing, network security, and more**
-- Other: **Git, Docker**
-- Current OSes: **Kali, Ubuntu**
-
----
-
-### 🌱 Current Focus:
-- Strengthening my skills in **Full-Stack Web Development**
-- Exploring **Cybersecurity** tools and practices
-- Learning **French** 🇫🇷 on the side because, why not?
-
----
-
-### ⚡ Fun Facts:
-- I'm a stoic thinker and a lover of self-improvement.
-- I enjoy working on meaningful projects that push me out of my comfort zone.
-- Always up for learning something new—whether it's tech, languages, or philosophy (but only when I'm feeling deep).
-
----
-
-### 📫 Let's connect:
-- Twitter: [@maliksaqibdev](https://twitter.com/maliksaqibdev)
-- GitHub: Right here, obviously!
-
----
-
-Thanks for stopping by! Feel free to check out my repositories and see what I've been up to. 🚀
+⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad)
