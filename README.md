@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Network Testing](https://img.shields.io/badge/-Network%20Testing-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/-Pen%20Testing-000000?style=flat-square&logo=kali-linux&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
 ### 📊 GitHub Stats
 <p align="left">
