@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
   <a href="https://x.com/maliksaqibdev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maliksaqibdev" height="30" width="40" />
   </a>
-  <a href="https://maliksaqib.vercel.app" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="my_website" height="30" width="40" />
+  <a href="mailto:maliksaqibahmad.dev@proton.me" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mail/mail-original.svg" alt="my_email" height="30" width="40" />
   </a>
 </p>
 
@@ -41,4 +41,4 @@ Je connais aussi le français
 
 ---
 
-⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad)
+⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad.dev@proton.me)
