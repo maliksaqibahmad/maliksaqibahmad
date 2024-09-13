@@ -19,6 +19,17 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 ![Network Testing](https://img.shields.io/badge/-Network%20Testing-0078D4?style=flat-square&logo=cisco&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Pen%20Testing-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maliksaqibahmad&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksaqibahmad&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 ### 🌱 Currently Learning
 
 - React
