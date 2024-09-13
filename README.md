@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | 💻 Ethical Hacker | 🌱 Always Learning
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications and solve real-world problems through code.
+Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications, solve real-world problems through code and learning French as well, cause why not?
 
 ### 🛠️ Technologies & Tools
 
@@ -15,10 +15,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=auto)
 
 ### 🌱 Currently Learning
 
