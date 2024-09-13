@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 
 - React
 - Penetration & Network Testing
+- Bash Scripting
 
 ### 📫 Let's Connect!
 
