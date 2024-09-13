@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=auto)
 
 ### 🌱 Currently Learning
 
