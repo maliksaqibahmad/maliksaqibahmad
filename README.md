@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maliksaqibdev" height="30" width="40" />
   </a>
   <a href="mailto:maliksaqibahmad.dev@proton.me" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" alt="my_email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" alt="my_email"/>
   </a>
 </p>
 
