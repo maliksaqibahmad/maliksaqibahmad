@@ -27,12 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksaqibahmad&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### 🌱 Currently Learning
-
-- React
-- Penetration & Network Testing
-- Bash Scripting
-
 ### 📫 Let's Connect!
 
 <p align="left">
