@@ -54,6 +54,4 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 
 Je connais aussi le français
 
----
-
 ⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad.dev@proton.me)
