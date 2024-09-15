@@ -17,13 +17,13 @@
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-000000?style=flat-square&logo=kali-linux&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maliksaqibahmad&theme=dark" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksaqibahmad&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
