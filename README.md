@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Saqib
 
-## 🚀 Full Stack Developer | 💻 Ethical Hacker | 🌱 Always Learning
-
-Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications, solve real-world problems through code.
-
 ### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
