@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer | 💻 Ethical Hacker | 🌱 Always Learning
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications, solve real-world problems through code and learning French as well, cause why not?
+Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethical hacker, on a journey to create amazing web applications, solve real-world problems through code.
 
 ### 🛠️ Technologies & Tools
 
