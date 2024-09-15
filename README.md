@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and an ethic
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Network Testing](https://img.shields.io/badge/-Network%20Testing-0078D4?style=flat-square&logo=cisco&logoColor=white)
