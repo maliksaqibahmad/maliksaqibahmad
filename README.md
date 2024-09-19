@@ -45,4 +45,4 @@
 
 Je connais aussi le français
 
-⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad.dev@proton.me)
+⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad/)
