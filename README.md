@@ -44,5 +44,3 @@
 ### 💡 Fun Fact
 
 Je connais aussi le français
-
-⭐️ From [maliksaqibahmad](https://github.com/maliksaqibahmad/)
