@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maliksaqibahmad/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
 [![Email](https://img.shields.io/badge/-Email-333?style=flat-square&logo=gmail)](mailto:maliksaqibahmad.dev@proton.me)
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on any projects or just chat about tech!
