@@ -26,12 +26,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Malik Saqib Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliksaqibahmad&show_icons=true&theme=dark)
 
-## 📂 Projects
-
-- [Project 1](https://github.com/maliksaqibahmad/project1): A brief description of your project.
-- [Project 2](https://github.com/maliksaqibahmad/project2): A brief description of your project.
-- [Project 3](https://github.com/maliksaqibahmad/project3): A brief description of your project.
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maliksaqibahmad/)
