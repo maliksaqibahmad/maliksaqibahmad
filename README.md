@@ -1,4 +1,4 @@
-# Hi there, I'm Malik Saqib Ahmad! 👋
+# Hi there, I'm Saqib Malik! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies.
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:your-email@example.com), [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- ⚡ Fun fact: I love to solve puzzles and play chess.
+- 📫 How to reach me: [Email](mailto:maliksaqibahmad.dev@proton.me), [LinkedIn](https://www.linkedin.com/in/maliksaqibahmad/)
+- ⚡ Fun fact: I love to write and solve tech problems.
 
 ## 🛠️ Technologies & Tools
 
